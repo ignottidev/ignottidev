@@ -1,64 +1,50 @@
 # Olá, eu sou o Kauã! 👋
 
-## Sobre mim
+Técnico em Desenvolvimento de Sistemas em transição para a área de TI.
+Trabalho no **Supermercado Fonseca** (Itobi-SP) e estou buscando minha primeira oportunidade como **Assistente/Analista de Sistemas**.
 
-Sou **Kauã Vitor Ignoti de Souza**, técnico em Desenvolvimento de Sistemas e profissional de TI com experiência prática em suporte a sistemas, manutenção de infraestrutura e desenvolvimento de soluções internas.
+Tenho experiência prática com SQL, Excel avançado, suporte a sistemas e noções de desenvolvimento web — habilidades que venho desenvolvendo de forma autodidata e na formação técnica.
 
-Atuo na área de tecnologia do **Supermercado Fonseca** (Itobi-SP), onde aplico no dia a dia conhecimentos em sistemas de gestão, banco de dados e automação de processos.
+> 💼 **Aberto a oportunidades** em suporte a sistemas, TI e desenvolvimento — região de São José do Rio Pardo/SP
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 
 **Banco de Dados**
-- SQL (consultas, manipulação de dados, relatórios)
-- Análise e validação de informações via queries
+- SQL — consultas, filtros, JOINs, relatórios e manipulação de dados
+- Análise e conferência de dados via queries
 
 **Desenvolvimento Web**
-- HTML, CSS, JavaScript
-- Páginas e interfaces para sistemas internos
+- HTML, CSS, JavaScript (noções)
+- Criação de páginas e interfaces simples
 
 **Ferramentas & Sistemas**
-- Microsoft Excel (intermediário/avançado)
-- Sistemas ERP / PDV / Retaguarda
-- Suporte técnico a usuários e sistemas
-
----
-
-## 💼 Experiência
-
-**Analista de TI — Supermercado Fonseca** · Itobi, SP
-- Suporte a sistemas PDV, retaguarda e administrativo
-- Monitoramento de integrações entre sistemas
-- Consultas e relatórios em banco de dados (SQL)
-- Apoio em implantação e atualização de sistemas
-- Treinamento de colaboradores no uso de sistemas
+- Microsoft Excel (intermediário/avançado) — fórmulas, tabelas dinâmicas
+- Sistemas de gestão (ERP, PDV, retaguarda)
+- Git e GitHub — controle de versão
 
 ---
 
 ## 🎓 Formação
 
-- **Técnico em Desenvolvimento de Sistemas** — Concluído
+**Técnico em Desenvolvimento de Sistemas** — Concluído
+
+---
+
+## 🚀 O que estou construindo
+
+Atualmente organizando meu portfólio com projetos práticos nas áreas de SQL, automação de planilhas e páginas web voltadas para sistemas internos.
 
 ---
 
 ## 📍 Localização
 
-Itobi — SP, Brasil
+Itobi — SP, Brasil \| Disponível para trabalhar em São José do Rio Pardo e região
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ignottidev)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ignottidev)
-
----
-
-## 📊 Estatísticas GitHub
-
-![Kauã's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ignottidev&show_icons=true&theme=dark&hide_border=true)
-
----
-
-*"Organização e atenção aos detalhes fazem a diferença em TI."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ignottidev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ignottidev)
